@@ -1,0 +1,25 @@
+[
+  {
+    "id": 3,
+    "name": "Układ elementów ekranu opisywany jest jako plik z rozszerzeniem:",
+    "publish_at": "2020-05-05 10:10:24+00:00",
+    "answers": [
+      {
+        "id": 5,
+        "name": "json"
+      },
+      {
+        "id": 6,
+        "name": "xhtml"
+      },
+      {
+        "id": 7,
+        "name": "xml"
+      },
+      {
+        "id": 8,
+        "name": "ktv"
+      }
+    ]
+  }
+]
